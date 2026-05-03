@@ -286,7 +286,7 @@ const io = new Server(server, {
     origin: [
       "https://movie-maniacs.vercel.app",
       "https://ghost-talk-tan.vercel.app",
-      "http://localhost:5173"
+      "https://ghost-talked.vercel.app"
     ],
     credentials: true
   }
